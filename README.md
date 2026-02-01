@@ -37,6 +37,9 @@ Este proyecto simula el diseño de dos redes empresariales (Producción y Desarr
 ### Red B - Desarrollo
 ![Red B - Desarrollo](images/Desarrollo.jpg)
 
+### Diagrama editable (.drawio)
+
+[Descargar diagrama de Red A y Red B](diagrams/red-a-red-b.drawio)
 
 ## 🛠️ Tecnologías utilizadas
 
