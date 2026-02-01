@@ -41,6 +41,14 @@ Este proyecto simula el diseño de dos redes empresariales (Producción y Desarr
 
 [Descargar diagrama de Red A y Red B](diagrams/red-a-red-b.drawio)
 
+## 📄 Documentación técnica
+
+[📥 Descargar PDF de configuración](docs/configuracion-red-a-b.pdf)
+
+## 🧪 Simulación en Cisco Packet Tracer
+
+[📥 Descargar archivo .pkt](packet-tracer/red-a-red-b.pkt)
+
 ## 🛠️ Tecnologías utilizadas
 
 - Cisco Packet Tracer
