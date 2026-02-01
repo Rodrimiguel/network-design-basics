@@ -29,6 +29,15 @@ Este proyecto simula el diseño de dos redes empresariales (Producción y Desarr
 - DHCP: `172.33.10.2`
 - Servidores web: `172.33.10.3`, `.4`, `.5`
 
+## 🖼️ Diagramas visuales
+
+### Red A - Producción
+![Red A - Producción](images/Producción.jpg)
+
+### Red B - Desarrollo
+![Red B - Desarrollo](images/Desarrollo.jpg)
+
+
 ## 🛠️ Tecnologías utilizadas
 
 - Cisco Packet Tracer
